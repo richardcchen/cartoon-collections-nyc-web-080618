@@ -24,7 +24,7 @@ def find_the_cheese(array)
   
   if array.include?("cheddar")
     return "cheddar"
-    if array.include?("cheddar")
+  elsif array.include?("cheddar")
     return "cheddar"  
 
     
