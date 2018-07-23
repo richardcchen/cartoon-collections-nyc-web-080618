@@ -7,7 +7,8 @@ end
 
 def summon_captain_planet(array)
   # Your code here
-  
+  array.collect do |call|
+    call
   
 end
 
